@@ -28,6 +28,7 @@ Follow these steps to set up and run the project on your local machine:
 - MySQL
 
 # Screenshots
+![Capture1](https://github.com/niranjan-digraje/Bank-Management-System/assets/155544790/7b08c079-818d-4cff-aac8-deec9d07d1ff)
 
 
 
